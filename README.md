@@ -2,7 +2,7 @@
 
 This will patch windows serves using ansible
 
-Reuirement:
+Requirement:
 
 winrm and should be installed on target windows servers.
 
